@@ -1,3 +1,3 @@
 # django-app-practice
 
-Exploring CRUD principles and implement functionality web pages
+Exploring CRUD principles and implement functionality into web pages
